@@ -6,12 +6,12 @@ Welcome to the central repository for my **5th Semester Lab Experiments** at **C
 
 ## 📚 Courses & Faculty Mentors
 
-| Course Code | Course Name | Faculty Mentor |
+| Course Code / Abbreviation | Course Name | Faculty Mentor |
 | :--- | :--- | :--- |
-| **CZ2V32** | Security & Privacy in Cloud | **Mr. V. Robin Britto** |
-| **CZ2V48** | Generative AI & Large Language Models | **Ms. Vishali** |
-| **CZ4502** | Network Security | **Ms. P. Vidhya Lakshmi** |
-| **CZ4503** | Modern Cryptography | **Mr. M. Sithranjan** |
+| **SPC** | Security & Privacy in Cloud | **Mr. V. Robin Britto** |
+| **GenAI & LLM** | Generative AI & Large Language Models | **Ms. Vishali** |
+| **NS** | Network Security | **Ms. P. Vidhya Lakshmi** |
+| **MC** | Modern Cryptography | **Mr. M. Sithranjan** |
 
 ---
 
@@ -20,34 +20,39 @@ Welcome to the central repository for my **5th Semester Lab Experiments** at **C
 Here is a breakdown of the lab components included in this workspace:
 
 ### ☁️ [SPC](./SPC) — Security & Privacy in Cloud
-*Guided by "Mr. V. Robin Britto"*
-Focused on cloud security simulations, identity access management, policies, and forensic log auditing.
-- Cloud Scheduling & Resource Management Simulations
-- Log Forensics & Log Monitoring Systems
-- Secure File Sharing Configurations
-- Data Anonymization & Image Encryption/Obfuscation
-- Role-Based Access Control (RBAC) & Attribute-Based Access Control (ABAC)
+*Guided by Mr. V. Robin Britto*
+1. Experiment 1 - Cloud Scheduling Simulation
+2. Experiment 2 - Resource Management Simulation
+3. Experiment 3 - Log Forensics Simulation
+4. Experiment 4 - Secure File Sharing Simulation
+5. Experiment 5 - Data Anonymization Techniques
+6. Experiment 6 - Image Encryption
+7. Experiment 7 - Image Obfuscation
+8. Experiment 8 - Role-Based Access Control
+9. Experiment 9 - Attribute-Based Access Control
+10. Experiment 10 - Log Monitoring and Incident Management
 
 ### 🤖 [GenAI & LLM](./GenAI%26LLM) — Generative AI & Large Language Models
-*Guided by "Ms. Vishali"*
-Explores the core fundamentals of building, training, and working with modern GenAI and transformer models.
-- Tokenization & Token IDs exploration
-- Dense Embedding representations
-- Sequence Modelling and text generation scripts
-- Interactive Jupyter Notebooks for model training/experimentation
+*Guided by Ms. Vishali*
+1. Experiment 1 - Basic Text Generation and Model Setup
+2. Experiment 2 - Interactive Training & Notebook Verification
+3. Experiment 3 (Program 1) - Tokenization Exploration
+4. Experiment 3 (Program 2) - Token IDs Conversion
+5. Experiment 3 (Program 3) - Dense Embeddings Generation
+6. Experiment 3 (Program 4) - Sequence Modelling
 
 ### 🔒 [NS](./NS) — Network Security
-*Guided by "Ms. P. Vidhya Lakshmi"*
-Practical implementations of fundamental network defense mechanisms, attacks, and cryptographic protocols.
-- MD5 Hash Collision attacks and binary collisions
-- Cryptographic Hash-based Message Authentication Codes (HMAC)
-- Buffer Overflow vulnerability demonstrations (memory manipulation)
+*Guided by Ms. P. Vidhya Lakshmi*
+1. Experiment 1 - MD5 Collision Attacks and Binary Demonstration
+2. Experiment 2 - Cryptographic Hash-based Message Authentication Codes (HMAC)
+3. Experiment 3 - Buffer Overflow Vulnerability and Memory Manipulation
 
 ### 🔑 [MC](./MC) — Modern Cryptography
-*Guided by "Mr. M. Sithranjan"*
-Implementations of cryptographic foundations, secure key distribution systems, and simulations of security architectures.
-- Custom Scheduling & Resource Management Simulations
-- Log Forensics & Secure File Sharing Simulations
+*Guided by Mr. M. Sithranjan*
+1. Experiment 1 - Custom Scheduling Simulation
+2. Experiment 2 - Resource Management Simulation
+3. Experiment 3 - Log Forensics Simulation
+4. Experiment 4 - Secure File Sharing Simulation
 
 ---
 
@@ -74,5 +79,5 @@ gcc -o overflow experiment_3_buffer_overflow.c -fno-stack-protector -z execstack
 ---
 
 ## 🏛️ Chennai Institute of Technology
-*Department of Computer Science and Engineering(CyberSecurity)*  
-*Chennai*
+*Department of Computer Science and Engineering / Information Technology*  
+*Affiliated to Anna University, Chennai.*
