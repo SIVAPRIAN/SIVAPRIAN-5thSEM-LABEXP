@@ -1,8 +1,0 @@
-*.class
-__pycache__/
-.vscode/
-.idea/
-.agents/
-*.zip
-*.tar.gz
-*.log
