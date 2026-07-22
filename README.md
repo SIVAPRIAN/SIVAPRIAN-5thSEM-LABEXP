@@ -74,5 +74,5 @@ gcc -o overflow experiment_3_buffer_overflow.c -fno-stack-protector -z execstack
 ---
 
 ## 🏛️ Chennai Institute of Technology
-*Department of Computer Science and Engineering / Information Technology*  
-*Affiliated to Anna University, Chennai.*
+*Department of Computer Science and Engineering(CyberSecurity)*  
+*Chennai*
