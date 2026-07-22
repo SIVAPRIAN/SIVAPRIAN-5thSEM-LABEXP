@@ -20,7 +20,7 @@ Welcome to the central repository for my **5th Semester Lab Experiments** at **C
 Here is a breakdown of the lab components included in this workspace:
 
 ### ☁️ [SPC](./SPC) — Security & Privacy in Cloud
-*Guided by Mr. V. Robin Britto*
+*Guided by "Mr. V. Robin Britto"*
 Focused on cloud security simulations, identity access management, policies, and forensic log auditing.
 - Cloud Scheduling & Resource Management Simulations
 - Log Forensics & Log Monitoring Systems
