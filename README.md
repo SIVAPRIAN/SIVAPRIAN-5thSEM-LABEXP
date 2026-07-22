@@ -93,18 +93,6 @@ javac -cp ".;cloudsim-3.0.3.jar;commons-math3-3.6.1.jar" CustomSchedulingSimulat
 java -cp ".;cloudsim-3.0.3.jar;commons-math3-3.6.1.jar" CustomSchedulingSimulation
 ```
 
-**On Linux / macOS:**
-```bash
-# Navigate to the experiment directory (e.g., SPC/Ex1_CloudScheduling)
-cd SPC/Ex1_CloudScheduling
-
-# Compile the Java file with classpaths
-javac -cp ".:cloudsim-3.0.3.jar:commons-math3-3.6.1.jar" CustomSchedulingSimulation.java
-
-# Run the simulation
-java -cp ".:cloudsim-3.0.3.jar:commons-math3-3.6.1.jar" CustomSchedulingSimulation
-```
-
 ---
 
 ## 🏛️ Chennai Institute of Technology
