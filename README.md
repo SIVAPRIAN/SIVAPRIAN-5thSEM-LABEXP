@@ -6,12 +6,12 @@ Welcome to the central repository for my **5th Semester Lab Experiments** at **C
 
 ## 📚 Courses & Faculty Mentors
 
-| Course Code / Abbreviation | Course Name | Faculty Mentor |
+| Course Code | Course Name | Faculty Mentor |
 | :--- | :--- | :--- |
-| **SPC** | Security & Privacy in Cloud | **Mr. V. Robin Britto** |
-| **GenAI & LLM** | Generative AI & Large Language Models | **Ms. Vishali** |
-| **NS** | Network Security | **Ms. P. Vidhya Lakshmi** |
-| **MC** | Modern Cryptography | **Mr. M. Sithranjan** |
+| **CZ2V32** | Security & Privacy in Cloud | **Mr. V. Robin Britto** |
+| **CZ2V48** | Generative AI & Large Language Models | **Ms. Vishali** |
+| **CZ4502** | Network Security | **Ms. P. Vidhya Lakshmi** |
+| **CZ4503** | Modern Cryptography | **Mr. M. Sithranjan** |
 
 ---
 
