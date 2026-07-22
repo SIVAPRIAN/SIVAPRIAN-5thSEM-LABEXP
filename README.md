@@ -29,7 +29,7 @@ Focused on cloud security simulations, identity access management, policies, and
 - Role-Based Access Control (RBAC) & Attribute-Based Access Control (ABAC)
 
 ### 🤖 [GenAI & LLM](./GenAI%26LLM) — Generative AI & Large Language Models
-*Guided by Ms. Vishali*
+*Guided by "Ms. Vishali"*
 Explores the core fundamentals of building, training, and working with modern GenAI and transformer models.
 - Tokenization & Token IDs exploration
 - Dense Embedding representations
@@ -37,14 +37,14 @@ Explores the core fundamentals of building, training, and working with modern Ge
 - Interactive Jupyter Notebooks for model training/experimentation
 
 ### 🔒 [NS](./NS) — Network Security
-*Guided by Ms. P. Vidhya Lakshmi*
+*Guided by "Ms. P. Vidhya Lakshmi"*
 Practical implementations of fundamental network defense mechanisms, attacks, and cryptographic protocols.
 - MD5 Hash Collision attacks and binary collisions
 - Cryptographic Hash-based Message Authentication Codes (HMAC)
 - Buffer Overflow vulnerability demonstrations (memory manipulation)
 
 ### 🔑 [MC](./MC) — Modern Cryptography
-*Guided by Mr. M. Sithranjan*
+*Guided by "Mr. M. Sithranjan"*
 Implementations of cryptographic foundations, secure key distribution systems, and simulations of security architectures.
 - Custom Scheduling & Resource Management Simulations
 - Log Forensics & Secure File Sharing Simulations
