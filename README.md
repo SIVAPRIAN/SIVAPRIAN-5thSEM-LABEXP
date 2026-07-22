@@ -76,6 +76,33 @@ gcc -o overflow experiment_3_buffer_overflow.c -fno-stack-protector -z execstack
 ./overflow
 ```
 
+### Running Java/CloudSim Simulations
+To compile and run the Java experiments (e.g., in SPC or MC) which require dependency `.jar` libraries:
+
+**On Windows (PowerShell/CMD):**
+```powershell
+# Navigate to the experiment directory (e.g., SPC/Ex1_CloudScheduling)
+cd SPC/Ex1_CloudScheduling
+
+# Compile the Java file with classpaths
+javac -cp ".;cloudsim-3.0.3.jar;commons-math3-3.6.1.jar" CustomSchedulingSimulation.java
+
+# Run the simulation
+java -cp ".;cloudsim-3.0.3.jar;commons-math3-3.6.1.jar" CustomSchedulingSimulation
+```
+
+**On Linux / macOS:**
+```bash
+# Navigate to the experiment directory (e.g., SPC/Ex1_CloudScheduling)
+cd SPC/Ex1_CloudScheduling
+
+# Compile the Java file with classpaths
+javac -cp ".:cloudsim-3.0.3.jar:commons-math3-3.6.1.jar" CustomSchedulingSimulation.java
+
+# Run the simulation
+java -cp ".:cloudsim-3.0.3.jar:commons-math3-3.6.1.jar" CustomSchedulingSimulation
+```
+
 ---
 
 ## 🏛️ Chennai Institute of Technology
