@@ -1,5 +1,7 @@
 # 🎓 5th Semester Lab Experiments (CIT)
 
+> Developed by **Sivaprian M** (Department of Cybersecurity)
+
 Welcome to the central repository for my **5th Semester Lab Experiments** at **Chennai Institute of Technology (CIT)**. This repository contains the complete implementation and source code for various academic lab courses.
 
 ---
@@ -78,6 +80,7 @@ gcc -o overflow experiment_3_buffer_overflow.c -fno-stack-protector -z execstack
 
 ### Running Java/CloudSim Simulations
 To compile and run the Java experiments (e.g., in SPC or MC) which require dependency `.jar` libraries:
+
 **On Windows (PowerShell/CMD):**
 ```powershell
 # Navigate to the experiment directory (e.g., SPC/Ex1_CloudScheduling)
@@ -90,9 +93,20 @@ javac -cp ".;cloudsim-3.0.3.jar;commons-math3-3.6.1.jar" CustomSchedulingSimulat
 java -cp ".;cloudsim-3.0.3.jar;commons-math3-3.6.1.jar" CustomSchedulingSimulation
 ```
 
+**On Linux / macOS:**
+```bash
+# Navigate to the experiment directory (e.g., SPC/Ex1_CloudScheduling)
+cd SPC/Ex1_CloudScheduling
+
+# Compile the Java file with classpaths
+javac -cp ".:cloudsim-3.0.3.jar:commons-math3-3.6.1.jar" CustomSchedulingSimulation.java
+
+# Run the simulation
+java -cp ".:cloudsim-3.0.3.jar:commons-math3-3.6.1.jar" CustomSchedulingSimulation
+```
 
 ---
 
 ## 🏛️ Chennai Institute of Technology
-*Department of Computer Science and Engineering / Information Technology*  
+*Department of Cybersecurity*  
 *Affiliated to Anna University, Chennai.*
